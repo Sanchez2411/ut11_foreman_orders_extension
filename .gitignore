@@ -1,0 +1,30 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs / temp
+*.log
+*.tmp
+*.bak
+
+# 1C temp / cache / exported garbage
+*.cf~
+*.cfe~
+*.epf~
+*.erf~
+*.mxl~
+*.xml~
+
+# Windows temp office locks
+~$*
+
+# Python cache if suddenly appears
+__pycache__/
+*.pyc
